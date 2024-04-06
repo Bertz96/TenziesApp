@@ -1,8 +1,6 @@
 
 # Tenzies! - Rules
 
-- **Link** [Tenzies!](https://vercel.com/bertz96s-projects/tenzies-app-bc)
-
 ### Here are the rules for the solo version of the dice game Tenzi:
 
 - **Goal:** The objective of solo Tenzi is to roll all ten of your dice to show the same number.
@@ -18,3 +16,5 @@
 - **Winning:** The game is won when you get all ten of your dice to show the chosen number.
 
 - **Variations:** To add variety to your solo play, you can set challenges such as beating your previous time or aiming for a specific pattern (like a straight or full house).
+
+## **Link** to the game - [Tenzies!](https://vercel.com/bertz96s-projects/tenzies-app-bc)
