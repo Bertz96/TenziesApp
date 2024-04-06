@@ -10,13 +10,11 @@ function App() {
 
   useEffect(() => {
     const allDicesHolded = dados.every((value) => value.isHeld === true);
-    //terminar de comprender bien la forma de seleccionar un numero
     const selectedNumber = dados[0].value;
     const allSameNumbers = dados.every(
       (value) => value.value === selectedNumber
     );
 
-    // console.log(selectedNumber);
     if (allDicesHolded && allSameNumbers) {
       setTenzies(true);
     }
@@ -44,11 +42,11 @@ function App() {
   }
 
   function getRandomNumbers() {
-    const numerosPiolas = [];
+    const conjuntoDeDatos = [];
     for (let i = 0; i < 10; i++) {
-      numerosPiolas.push(getNewDie());
+      conjuntoDeDatos.push(getNewDie());
     }
-    return numerosPiolas;
+    return conjuntoDeDatos;
   }
 
   const numeritos = dados.map((el) => (
