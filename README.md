@@ -17,4 +17,6 @@
 
 - **Variations:** To add variety to your solo play, you can set challenges such as beating your previous time or aiming for a specific pattern (like a straight or full house).
 
-## **Link** to the game - [Tenzies!](https://vercel.com/bertz96s-projects/tenzies-app-bc)
+## **Link** to the game - [Tenzies!](https://tenzies-app-bc.vercel.app/))
+
+
